@@ -1,0 +1,6 @@
+1000        retrait        200        echec        Negatif
+2000        retrait        300        succes       Positif
+1000        retrait        100        succes       Negatif
+2000        ajout        450     succes      Positif
+3000        ajout        1000    succes      Positif
+4000        ajout        700     succes      Negatif
